@@ -1,0 +1,14 @@
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\bin\Debug\netcoreapp2.1\Clearmeasure.deps.json
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\bin\Debug\netcoreapp2.1\Clearmeasure.runtimeconfig.json
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\bin\Debug\netcoreapp2.1\Clearmeasure.runtimeconfig.dev.json
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\bin\Debug\netcoreapp2.1\Clearmeasure.dll
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\bin\Debug\netcoreapp2.1\Clearmeasure.pdb
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\obj\Debug\netcoreapp2.1\Clearmeasure.csprojAssemblyReference.cache
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\obj\Debug\netcoreapp2.1\Clearmeasure.csproj.CoreCompileInputs.cache
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\obj\Debug\netcoreapp2.1\Clearmeasure.AssemblyInfoInputs.cache
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\obj\Debug\netcoreapp2.1\Clearmeasure.AssemblyInfo.cs
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\obj\Debug\netcoreapp2.1\Clearmeasure.dll
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\obj\Debug\netcoreapp2.1\Clearmeasure.pdb
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\ranga\source\repos\Clearmeasure\Clearmeasure\obj\Debug\netcoreapp2.1\Clearmeasure.csproj.CopyComplete
